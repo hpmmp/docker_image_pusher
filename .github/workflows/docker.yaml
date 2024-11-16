@@ -1,4 +1,4 @@
-name: Docker
+name: ceph/daemon:latest-luminous
 
 on:
   workflow_dispatch:
