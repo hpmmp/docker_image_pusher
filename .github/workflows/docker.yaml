@@ -1,5 +1,4 @@
 name: ceph/daemon:latest-luminous
-
 on:
   workflow_dispatch:
   push:
