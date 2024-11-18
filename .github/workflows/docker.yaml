@@ -1,4 +1,4 @@
-name: ceph/daemon:latest-luminous
+name: ceph/daemon:master-7ef46af-nautilus-centos-7-x86_64
 on:
   workflow_dispatch:
   push:
